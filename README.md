@@ -2,7 +2,9 @@
 
 DEMOs here!
 
-<video src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000.mp4" controls="controls" width:100% height:auto></video><video src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Speech.mp4" controls="controls" width:100% height:auto></video><video src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Music.mp4" controls="controls" width:100% height:auto></video>
+<video src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000.mp4" controls="controls" width:100% height:auto></video>
+<video src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Speech.mp4" controls="controls" width:100% height:auto></video>
+<video src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Music.mp4" controls="controls" width:100% height:auto></video>
 
 ### Jekyll Themes
 
