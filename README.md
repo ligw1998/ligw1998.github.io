@@ -28,8 +28,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[video]<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="./src/-1hDIl9Udkw_30.000_40.000.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="src/-1hDIl9Udkw_30.000_40.000.mp4" type="video/mp4">
 </video>
 
 ### Jekyll Themes
