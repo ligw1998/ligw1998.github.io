@@ -3,7 +3,9 @@
 DEMOs here!
 
 <video width="320" height="240" controls>
-    <source src="movie.mp4" type="src/audioset_eval/-1hDIl9Udkw_30.000_40.000.mp4"><source src="movie.mp4" type="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Speech.mp4"><source src="movie.mp4" type="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Music.mp4">
+    <source src="movie1.mp4" type="src/audioset_eval/-1hDIl9Udkw_30.000_40.000.mp4">
+    <source src="movie2.mp4" type="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Speech.mp4">
+    <source src="movie3.mp4" type="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Music.mp4">
 </video>
 
 ### Jekyll Themes
