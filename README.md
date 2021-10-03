@@ -7,8 +7,8 @@ DEMOs are here!
 Speech Enhancement:
 Good samples:
 
-​<audio id="audio" controls="" preload="none">
-      <source id="wav" src="src/test/Speech/mix_175.wav"><source id="wav" src="src/test/Speech/sep_175.wav">
+<audio src="src/test/Speech/mix_175.wav" controls="controls">
+mix Speech
 </audio>
 
 <audio id="audio" controls="" preload="none">
