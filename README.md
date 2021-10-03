@@ -4,6 +4,17 @@ DEMOs are here!
 
 ### single-class enhancement: audios are picked from the test set (generated with the librispeech clean, MUSAN and Findsounds datasets)
 
+Speech Enhancement:
+Good samples:
+
+​<audio id="audio" controls="" preload="none">
+      <source id="wav" src="src/test/Speech/mix_175.wav"><source id="wav" src="src/test/Speech/sep_175.wav">
+</audio>
+
+<audio id="audio" controls="" preload="none">
+      <source id="wav" src="src/test/Speech/mix_449.wav"><source id="wav" src="src/test/Speech/sep_449.wav">
+</audio>
+
 ### real video enhancement: these videos are picked from the audioset eval. We enhance different audio categories with different category-adapted models.
 
 Original 1:(Original sound label(s): Speech, Music)
