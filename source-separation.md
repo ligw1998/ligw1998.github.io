@@ -32,40 +32,40 @@ Original 1:(Original sound label(s): Speech, Music)
 
 Original 2:(Original sound label(s): Speech, Music)
 
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000_Speech.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000_Music.mp4" type="video/mp4">
 </video>
 
 Original 3:(Original sound label(s): Speech, Music, Horse)
 
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Speech.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Music.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Horse.mp4" type="video/mp4">
 </video>
 
 Original 4:(Original sound label(s): Speech, Vehicle)
 
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000_Speech.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000_Vehicle.mp4" type="video/mp4">
 </video>
 
