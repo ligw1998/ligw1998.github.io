@@ -110,7 +110,7 @@
 ### Real video enhancement: 
 > These videos are picked from the audioset eval. We enhance different audio categories (according to the sound classes appeared) with different category-adapted models. 
 > 
-> For each example, the original video is listed in the first.
+> For each example, the original video is listed in the first. The rest are listed according to the original label order.
 
 #### Case 1: (_Original sound label(s): Speech, Music_)
 
