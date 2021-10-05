@@ -6,7 +6,7 @@
 > d
 
 
-### A Refise on original labels from AVE dataset: 
+### A Revise on original labels from AVE dataset: 
 
 
 ### Parsing events for in-the-wild videos: 
