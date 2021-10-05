@@ -7,10 +7,10 @@ DEMOs are here!
 Speech Enhancement:
 Good samples:
 
-<audio src="src/test/Speech/Good/mix_175.wav" controls="controls">
+<audio width="120" src="src/test/Speech/Good/mix_175.wav" controls="controls">
 mix Speech
 </audio>
-<audio src="src/test/Speech/Good/sep_175.wav" controls="controls">
+<audio width="120" src="src/test/Speech/Good/sep_175.wav" controls="controls">
 sep Speech
 </audio>
 
@@ -20,13 +20,13 @@ sep Speech
 
 Original 1:(Original sound label(s): Speech, Music)
 
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Speech.mp4" type="video/mp4">
 </video>
-<video width="240" height="180" controls>
+<video width="200" height="150" controls>
     <source src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Music.mp4" type="video/mp4">
 </video>
 
