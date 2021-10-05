@@ -10,11 +10,11 @@
 #### Speech Enhancement:
 ##### **Good** samples:
 
-<audio style="width: 200px;" src="src/test/Speech/Good/mix_175.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Good/mix_18.wav" controls="controls">
 </audio>
-<audio style="width: 200px;" src="src/test/Speech/Good/sep_175.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Good/sep_18.wav" controls="controls">
 </audio>
-<audio style="width: 200px;" src="src/test/Speech/Good/clean_175.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Good/clean_18.wav" controls="controls">
 </audio>
 
 <audio style="width: 200px;" src="src/test/Speech/Good/mix_449.wav" controls="controls">
@@ -26,11 +26,11 @@
 
 ##### **Bad** samples:
 
-<audio style="width: 200px;" src="src/test/Speech/Bad/mix_18.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Bad/mix_175.wav" controls="controls">
 </audio>
-<audio style="width: 200px;" src="src/test/Speech/Bad/sep_18.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Bad/sep_175.wav" controls="controls">
 </audio>
-<audio style="width: 200px;" src="src/test/Speech/Bad/clean_18.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Bad/clean_175.wav" controls="controls">
 </audio>
 
 #### Music Enhancement:
