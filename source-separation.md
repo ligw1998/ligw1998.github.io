@@ -44,16 +44,16 @@ Original 2:(Original sound label(s): Speech, Music)
 
 Original 3:(Original sound label(s): Speech, Music, Horse)
 
-<video width="200" height="150" controls>
+<video width="160" height="120" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000.mp4" type="video/mp4">
 </video>
-<video width="200" height="150" controls>
+<video width="160" height="120" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Speech.mp4" type="video/mp4">
 </video>
-<video width="200" height="150" controls>
+<video width="160" height="120" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Music.mp4" type="video/mp4">
 </video>
-<video width="200" height="150" controls>
+<video width="160" height="120" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Horse.mp4" type="video/mp4">
 </video>
 
