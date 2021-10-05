@@ -7,13 +7,12 @@ DEMOs are here!
 Speech Enhancement:
 Good samples:
 
-<audio width="120" src="src/test/Speech/Good/mix_175.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Good/mix_175.wav" controls="controls">
 mix Speech
 </audio>
-<audio width="120" src="src/test/Speech/Good/sep_175.wav" controls="controls">
+<audio style="width: 200px;" src="src/test/Speech/Good/sep_175.wav" controls="controls">
 sep Speech
 </audio>
-
 
 
 ### real video enhancement: these videos are picked from the audioset eval. We enhance different audio categories with different category-adapted models.
