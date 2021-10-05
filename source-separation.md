@@ -1,6 +1,6 @@
 ## Welcome to Category Adapted Enhancement with Weakly Labelled Data
 
-DEMOs are here!
+**DEMOs are here!**
 
 ### Single-class enhancement: 
 > Audios are picked from the test set (generated with the librispeech clean, MUSAN and Findsounds datasets).
@@ -26,6 +26,76 @@ DEMOs are here!
 </audio>
 <audio style="width: 200px;" src="src/test/Speech/Bad/sep_18.wav" controls="controls">
 </audio>
+
+#### Music Enhancement:
+##### **Good** samples:
+
+<audio style="width: 200px;" src="src/test/Music/Good/mix_31.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Music/Good/sep_31.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Music/Good/clean_31.wav" controls="controls">
+</audio>
+
+<audio style="width: 200px;" src="src/test/Music/Good/mix_747.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Music/Good/sep_747.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Music/Good/clean_747.wav" controls="controls">
+</audio>
+
+##### **Bad** samples:
+
+<audio style="width: 200px;" src="src/test/Music/Bad/mix_328.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Music/Bad/sep_328.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Music/Bad/clean_328.wav" controls="controls">
+</audio>
+
+#### Animal Enhancement:
+##### **Good** samples:
+
+<audio style="width: 200px;" src="src/test/Animal/Good/mix_5.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Animal/Good/sep_5.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Animal/Good/clean_5.wav" controls="controls">
+</audio>
+
+<audio style="width: 200px;" src="src/test/Animal/Good/mix_124.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Animal/Good/sep_124.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Animal/Good/clean_124.wav" controls="controls">
+</audio>
+
+##### **Bad** samples:
+
+<audio style="width: 200px;" src="src/test/Animal/Bad/mix_115.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Animal/Bad/sep_115.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Animal/Bad/sep_115.wav" controls="controls">
+</audio>
+
+#### Vehicle Enhancement:
+##### **Good** samples:
+
+<audio style="width: 200px;" src="src/test/Vehicle/Good/mix_81.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Vehicle/Good/sep_81.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Vehicle/Good/clean_81.wav" controls="controls">
+</audio>
+
+<audio style="width: 200px;" src="src/test/Vehicle/Good/mix_170.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Vehicle/Good/sep_170.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Vehicle/Good/clean_170.wav" controls="controls">
+</audio>
+
 
 
 ### Real video enhancement: 
