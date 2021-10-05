@@ -14,9 +14,7 @@ mix Speech
 sep Speech
 </audio>
 
-<audio id="audio" controls="" preload="none">
-      <source id="wav" src="src/test/Speech/mix_449.wav"><source id="wav" src="src/test/Speech/sep_449.wav">
-</audio>
+
 
 ### real video enhancement: these videos are picked from the audioset eval. We enhance different audio categories with different category-adapted models.
 
@@ -25,13 +23,9 @@ Original 1:(Original sound label(s): Speech, Music)
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000.mp4" type="video/mp4">
 </video>
-
-Speech enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Speech.mp4" type="video/mp4">
 </video>
-
-Music enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000_Music.mp4" type="video/mp4">
 </video>
@@ -42,13 +36,9 @@ Original 2:(Original sound label(s): Speech, Music)
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000.mp4" type="video/mp4">
 </video>
-
-Speech enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000_Speech.mp4" type="video/mp4">
 </video>
-
-Music enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000_Music.mp4" type="video/mp4">
 </video>
@@ -58,18 +48,12 @@ Original 3:(Original sound label(s): Speech, Music, Horse)
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000.mp4" type="video/mp4">
 </video>
-
-Speech enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Speech.mp4" type="video/mp4">
 </video>
-
-Music enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Music.mp4" type="video/mp4">
 </video>
-
-Horse enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Horse.mp4" type="video/mp4">
 </video>
@@ -79,13 +63,9 @@ Original 4:(Original sound label(s): Speech, Vehicle)
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000.mp4" type="video/mp4">
 </video>
-
-Speech enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000_Speech.mp4" type="video/mp4">
 </video>
-
-Vehicle enhancement:
 <video width="240" height="180" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000_Vehicle.mp4" type="video/mp4">
 </video>
