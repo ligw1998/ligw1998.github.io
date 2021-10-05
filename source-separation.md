@@ -2,22 +2,38 @@
 
 DEMOs are here!
 
-### single-class enhancement: audios are picked from the test set (generated with the librispeech clean, MUSAN and Findsounds datasets)
+### Single-class enhancement: 
+> Audios are picked from the test set (generated with the librispeech clean, MUSAN and Findsounds datasets).
+> 
+> For each example, _noisy,seperated and clean_ audios are listed in order.
 
-Speech Enhancement:
-Good samples:
+#### Speech Enhancement:
+##### **Good** samples:
 
 <audio style="width: 200px;" src="src/test/Speech/Good/mix_175.wav" controls="controls">
-mix Speech
 </audio>
 <audio style="width: 200px;" src="src/test/Speech/Good/sep_175.wav" controls="controls">
-sep Speech
+</audio>
+
+<audio style="width: 200px;" src="src/test/Speech/Good/mix_449.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Speech/Good/sep_449.wav" controls="controls">
+</audio>
+
+##### **Bad** samples:
+
+<audio style="width: 200px;" src="src/test/Speech/Bad/mix_18.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Speech/Bad/sep_18.wav" controls="controls">
 </audio>
 
 
-### real video enhancement: these videos are picked from the audioset eval. We enhance different audio categories with different category-adapted models.
+### Real video enhancement: 
+> These videos are picked from the audioset eval. We enhance different audio categories (according to the sound classes appeared) with different category-adapted models. 
+> 
+> For each example, the original video is listed in the first.
 
-Original 1:(Original sound label(s): Speech, Music)
+#### Case 1: (_Original sound label(s): Speech, Music_)
 
 <video width="200" height="150" controls>
     <source src="src/audioset_eval/-1hDIl9Udkw_30.000_40.000.mp4" type="video/mp4">
@@ -30,7 +46,7 @@ Original 1:(Original sound label(s): Speech, Music)
 </video>
 
 
-Original 2:(Original sound label(s): Speech, Music)
+#### Case 2:(_Original sound label(s): Speech, Music_)
 
 <video width="200" height="150" controls>
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000.mp4" type="video/mp4">
@@ -42,7 +58,7 @@ Original 2:(Original sound label(s): Speech, Music)
     <source src="src/audioset_eval/2j4m7JsNtNA_30.000_40.000_Music.mp4" type="video/mp4">
 </video>
 
-Original 3:(Original sound label(s): Speech, Music, Horse)
+#### Case 3:(_Original sound label(s): Speech, Music, Horse_)
 
 <video width="160" height="120" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000.mp4" type="video/mp4">
@@ -57,7 +73,7 @@ Original 3:(Original sound label(s): Speech, Music, Horse)
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Horse.mp4" type="video/mp4">
 </video>
 
-Original 4:(Original sound label(s): Speech, Vehicle)
+#### Case 4:(_Original sound label(s): Speech, Vehicle_)
 
 <video width="200" height="150" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000.mp4" type="video/mp4">
@@ -69,69 +85,70 @@ Original 4:(Original sound label(s): Speech, Vehicle)
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000_Vehicle.mp4" type="video/mp4">
 </video>
 
-### long film trailor enhancement: these videos are downloaded directly from youtube (long and uncut). We use our speech enhancement and music enhancement model (even with our typewriter enhancement model for real effect).
+### Long film trailor enhancement:
+> These videos are downloaded directly from youtube (long and uncut). We use our speech enhancement and music enhancement model (even with our typewriter enhancement model for real effect).
 
-The Avengers 3: Infinite war
+#### The Avengers 3: Infinite war
 
-Original:
+##### Original:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/AVG3.mp4" type="video/mp4">
 </video>
 
-Speech:
+##### Speech:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/AVG3_Speech.mp4" type="video/mp4">
 </video>
 
-Music:
+##### Music:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/AVG3_Music.mp4" type="video/mp4">
 </video>
 
-Love Rosie:
+#### Love Rosie:
 
-Original:
+##### Original:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/lvrs.mp4" type="video/mp4">
 </video>
 
-Speech:
+##### Speech:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/lvrs_Speech.mp4" type="video/mp4">
 </video>
 
-Music:
+##### Music:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/lvrs_Music1.mp4" type="video/mp4">
 </video>
 
-The Greatest Showman:
+#### The Greatest Showman:
 
-Original:
+##### Original:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/TGSM_ref.mp4" type="video/mp4">
 </video>
 
-Speech:
+##### Speech:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/TGSM_ref_Speech.mp4" type="video/mp4">
 </video>
 
-Music:
+##### Music:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/TGSM_ref_Music.mp4" type="video/mp4">
 </video>
 
-Typewriter:
+##### Typewriter:
 
 <video width="480" height="270" controls>
     <source src="src/trailor/TGSM_ref_Typewriter.mp4" type="video/mp4">
