@@ -4,7 +4,7 @@
 
 ### Single-class enhancement: 
 > Audios are picked from the test set (generated with the librispeech clean, MUSAN and Findsounds datasets).
-> 
+> For simplicity, We pick **_Speech, Music, Animal and Vehicle_** enhancement as a demonstration.
 > For each example, _noisy,seperated and clean_ audios are listed in order.
 
 #### Speech Enhancement:
@@ -96,7 +96,16 @@
 <audio style="width: 200px;" src="src/test/Vehicle/Good/clean_170.wav" controls="controls">
 </audio>
 
+##### **Bad** samples:
 
+<audio style="width: 200px;" src="src/test/Vehicle/Bad/mix_104.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Vehicle/Bad/sep_104.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Vehicle/Bad/clean_104.wav" controls="controls">
+</audio>
+
+***
 
 ### Real video enhancement: 
 > These videos are picked from the audioset eval. We enhance different audio categories (according to the sound classes appeared) with different category-adapted models. 
@@ -154,6 +163,8 @@
 <video width="200" height="150" controls>
     <source src="src/audioset_eval/4egukLBpAcQ_30.000_40.000_Vehicle.mp4" type="video/mp4">
 </video>
+
+***
 
 ### Long film trailor enhancement:
 > These videos are downloaded directly from youtube (long and uncut). We use our speech enhancement and music enhancement model (even with our typewriter enhancement model for real effect).
