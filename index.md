@@ -1,5 +1,9 @@
 # Demo page for ICASSP2022
 
-[Category-Adapted Sound Event Enhancement with Weakly Labeled Data](./source-separation.html).
+## Paper 1:
 
-[Navigating AudioVisual Event Detection Across Modalities](./multimodal.html).
+[_Category-Adapted Sound Event Enhancement with Weakly Labeled Data_](./source-separation.html).
+
+## Paper 2:
+
+[_Navigating AudioVisual Event Detection Across Modalities_](./multimodal.html).
