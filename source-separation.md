@@ -14,10 +14,14 @@
 </audio>
 <audio style="width: 200px;" src="src/test/Speech/Good/sep_175.wav" controls="controls">
 </audio>
+<audio style="width: 200px;" src="src/test/Speech/Good/clean_175.wav" controls="controls">
+</audio>
 
 <audio style="width: 200px;" src="src/test/Speech/Good/mix_449.wav" controls="controls">
 </audio>
 <audio style="width: 200px;" src="src/test/Speech/Good/sep_449.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Speech/Good/clean_449.wav" controls="controls">
 </audio>
 
 ##### **Bad** samples:
@@ -25,6 +29,8 @@
 <audio style="width: 200px;" src="src/test/Speech/Bad/mix_18.wav" controls="controls">
 </audio>
 <audio style="width: 200px;" src="src/test/Speech/Bad/sep_18.wav" controls="controls">
+</audio>
+<audio style="width: 200px;" src="src/test/Speech/Bad/clean_18.wav" controls="controls">
 </audio>
 
 #### Music Enhancement:
