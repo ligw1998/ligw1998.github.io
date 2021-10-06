@@ -17,7 +17,8 @@
 <video width="480" height="270" controls>
     <source src="src/Multimodal/AVE/0lFf-HP86Q0.mp4" type="video/mp4">
 </video>
-![Branching]("src/Multimodal/AVE/0lFf-HP86Q0.jpg")
+
+<img src="src/Multimodal/AVE/0lFf-HP86Q0.jpg" alt="0lFf-HP86Q0" width="480" height="50">
 
 
 ### Parsing events for in-the-wild videos: 
