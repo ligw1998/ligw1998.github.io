@@ -15,23 +15,23 @@
 #### Case 1:
 
 <video width="480" height="270" controls>
-    <source src="src/Multimodal/AVE/0lFf-HP86Q0.mp4" type="video/mp4">
+    <source src="src/multimodal/AVE/0lFf-HP86Q0.mp4" type="video/mp4">
 </video>
-<img src="src/Multimodal/AVE/0lFf-HP86Q0.jpg" alt="0lFf-HP86Q0" width="500" height="70"/>
+<img src="src/multimodal/AVE/0lFf-HP86Q0.jpg" alt="0lFf-HP86Q0" width="500" height="70"/>
 
 #### Case 2:
 
 <video width="480" height="270" controls>
-    <source src="src/Multimodal/AVE/16eUxQwxxbs.mp4" type="video/mp4">
+    <source src="src/multimodal/AVE/16eUxQwxxbs.mp4" type="video/mp4">
 </video>
-<img src="src/Multimodal/AVE/16eUxQwxxbs.jpg" alt="16eUxQwxxbs" width="500" height="70"/>
+<img src="src/multimodal/AVE/16eUxQwxxbs.jpg" alt="16eUxQwxxbs" width="500" height="70"/>
 
 #### Case 3:
 
 <video width="480" height="270" controls>
-    <source src="src/Multimodal/AVE/22olCB3wQaA.mp4" type="video/mp4">
+    <source src="src/multimodal/AVE/22olCB3wQaA.mp4" type="video/mp4">
 </video>
-<img src="src/Multimodal/AVE/22olCB3wQaA.jpg" alt="22olCB3wQaA." width="500" height="70"/>
+<img src="src/multimodal/AVE/22olCB3wQaA.jpg" alt="22olCB3wQaA." width="500" height="70"/>
 
 
 ### Parsing events for in-the-wild videos: 
