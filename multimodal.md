@@ -31,7 +31,10 @@
 <video width="480" height="270" controls>
     <source src="src/multimodal/AVE/22olCB3wQaA.mp4" type="video/mp4">
 </video>
-<img src="src/multimodal/AVE/22olCB3wQaA.jpg" alt="22olCB3wQaA." width="500" height="80"/>
+
+##### Original:
+
+<embed width="500" height="80" src="src/multimodal/AVE/22olCB3wQaA_ori.pdf"></embed>
 
 
 ### Parsing events for in-the-wild videos: 
