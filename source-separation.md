@@ -145,16 +145,16 @@
 
 #### Case 3:(_Original sound label(s): Speech, Music, Horse_)
 
-<video width="160" height="120" controls>
+<video width="152" height="114" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000.mp4" type="video/mp4">
 </video>
-<video width="160" height="120" controls>
+<video width="152" height="114" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Speech.mp4" type="video/mp4">
 </video>
-<video width="160" height="120" controls>
+<video width="152" height="114" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Music.mp4" type="video/mp4">
 </video>
-<video width="160" height="120" controls>
+<video width="152" height="114" controls>
     <source src="src/audioset_eval/3GbIhQLCH9I_16.000_26.000_Horse.mp4" type="video/mp4">
 </video>
 
