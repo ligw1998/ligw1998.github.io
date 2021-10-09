@@ -6,4 +6,4 @@
 
 ## Paper 2:
 
-[_Navigating AudioVisual Event Detection Across Modalities_](./multimodal.html).
+[_Navigating Audio-Visual Event Detection Across Mismatched Modalities_](./multimodal.html).

@@ -1,12 +1,29 @@
-## Welcome to Navigating AudioVisual Event Detection Across Modalities
+## Welcome to Navigating Audio-Visual Event Detection Across Mismatched Modalities
 
 **DEMOs are here!**
+
+> We use our model to separately parse the event of three modalities: Audio, Visual and Audio-Visual. Audio-Visual means an event happens simultaneously in audio and video.
+> Our model predicts the onset(s) and offset(s) of each event. Here yellow represents audio, blue indicates video and green (blue+yellow) means audio-visual, same as the paper.
+> The cutline is as follows:
+
+
 
 ### Parsing result from VEBA test set: 
 > These are videos chosen from our VEBA dataset, the parsing result from our model is presented below each video.
 
 #### Case 1:
 
+<video width="480" height="270" controls>
+    <source src="src/multimodal/VEBA/-2RPPODqLy4_30.000_40.000.mp4" type="video/mp4">
+</video>
+
+##### Groud Truth:
+
+<img src="src/multimodal/VEBA/-2RPPODqLy4_gt.png" alt="-2RPPODqLy4_0" width="500" height="42"/>
+
+##### Ours:
+
+<img src="src/multimodal/VEBA/-2RPPODqLy4_ours.png" alt="-2RPPODqLy4_1" width="500" height="42"/>
 
 
 ### A Revise on original labels from AVE dataset: 
@@ -19,11 +36,11 @@
 </video>
 
 ##### Original:
-<img src="src/multimodal/AVE/0lFf-HP86Q0_ori.png" alt="0lFf-HP86Q0_0" width="500" height="18"/>
+<img src="src/multimodal/AVE/0lFf-HP86Q0_ori.png" alt="0lFf-HP86Q0_0" width="500" height="21"/>
 
 ##### Ours: 
 
-<img src="src/multimodal/AVE/0lFf-HP86Q0_ours.png" alt="0lFf-HP86Q0_1" width="500" height="18"/>
+<img src="src/multimodal/AVE/0lFf-HP86Q0_ours.png" alt="0lFf-HP86Q0_1" width="500" height="21"/>
 
 #### Case 2:
 
@@ -32,11 +49,11 @@
 </video>
 
 ##### Original:
-<img src="src/multimodal/AVE/16eUxQwxxbs_ori.png" alt="22olCB3wQaA_0" width="500" height="18"/>
+<img src="src/multimodal/AVE/16eUxQwxxbs_ori.png" alt="22olCB3wQaA_0" width="500" height="21"/>
 
 ##### Ours: 
 
-<img src="src/multimodal/AVE/16eUxQwxxbs_ours.png" alt="22olCB3wQaA_1" width="500" height="36"/>
+<img src="src/multimodal/AVE/16eUxQwxxbs_ours.png" alt="22olCB3wQaA_1" width="500" height="42"/>
 
 #### Case 3:
 
@@ -46,11 +63,11 @@
 
 ##### Original:
 
-<img src="src/multimodal/AVE/22olCB3wQaA_ori.png" alt="22olCB3wQaA_0" width="500" height="18"/>
+<img src="src/multimodal/AVE/22olCB3wQaA_ori.png" alt="22olCB3wQaA_0" width="500" height="21"/>
 
 ##### Ours:
 
-<img src="src/multimodal/AVE/22olCB3wQaA_ours.png" alt="22olCB3wQaA_1" width="500" height="36"/>
+<img src="src/multimodal/AVE/22olCB3wQaA_ours.png" alt="22olCB3wQaA_1" width="500" height="42"/>
 
 
 
