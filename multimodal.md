@@ -30,7 +30,7 @@
 
 ##### Ours: 
 
-<img src="src/multimodal/AVE/16eUxQwxxbs_ours.png" alt="22olCB3wQaA_0" width="500" height="18"/>
+<img src="src/multimodal/AVE/16eUxQwxxbs_ours.png" alt="22olCB3wQaA_0" width="500" height="36"/>
 
 #### Case 3:
 
