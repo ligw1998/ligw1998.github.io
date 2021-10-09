@@ -34,7 +34,12 @@
 
 ##### Original:
 
-<embed width="500" height="30" src="src/multimodal/AVE/22olCB3wQaA_ori.pdf"/>
+<img src="src/multimodal/AVE/22olCB3wQaA_ori.png" alt="22olCB3wQaA_0" width="500" height="20"/>
+
+#### Ours:
+
+<img src="src/multimodal/AVE/22olCB3wQaA_ours.png" alt="22olCB3wQaA_1" width="500" height="40"/>
+
 
 
 ### Parsing events for in-the-wild videos: 
