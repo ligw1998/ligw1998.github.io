@@ -26,10 +26,11 @@
 </video>
 
 ##### Original:
-<img src="src/multimodal/AVE/16eUxQwxxbs.jpg" alt="16eUxQwxxbs" width="500" height="80"/>
+<img src="src/multimodal/AVE/16eUxQwxxbs_ori.png" alt="22olCB3wQaA_0" width="500" height="18"/>
 
 ##### Ours: 
 
+<img src="src/multimodal/AVE/16eUxQwxxbs_ours.png" alt="22olCB3wQaA_0" width="500" height="18"/>
 
 #### Case 3:
 
