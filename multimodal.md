@@ -17,7 +17,13 @@
 <video width="480" height="270" controls>
     <source src="src/multimodal/AVE/0lFf-HP86Q0.mp4" type="video/mp4">
 </video>
-<img src="src/multimodal/AVE/0lFf-HP86Q0.jpg" alt="0lFf-HP86Q0" width="500" height="60"/>
+
+##### Original:
+<img src="src/multimodal/AVE/0lFf-HP86Q0_ori.png" alt="0lFf-HP86Q0_0" width="500" height="18"/>
+
+##### Ours: 
+
+<img src="src/multimodal/AVE/0lFf-HP86Q0_ours.png" alt="0lFf-HP86Q0_1" width="500" height="18"/>
 
 #### Case 2:
 
@@ -30,7 +36,7 @@
 
 ##### Ours: 
 
-<img src="src/multimodal/AVE/16eUxQwxxbs_ours.png" alt="22olCB3wQaA_0" width="500" height="36"/>
+<img src="src/multimodal/AVE/16eUxQwxxbs_ours.png" alt="22olCB3wQaA_1" width="500" height="36"/>
 
 #### Case 3:
 
