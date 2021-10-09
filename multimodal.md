@@ -24,7 +24,12 @@
 <video width="480" height="270" controls>
     <source src="src/multimodal/AVE/16eUxQwxxbs.mp4" type="video/mp4">
 </video>
+
+##### Original:
 <img src="src/multimodal/AVE/16eUxQwxxbs.jpg" alt="16eUxQwxxbs" width="500" height="80"/>
+
+##### Ours: 
+
 
 #### Case 3:
 
@@ -34,11 +39,11 @@
 
 ##### Original:
 
-<img src="src/multimodal/AVE/22olCB3wQaA_ori.png" alt="22olCB3wQaA_0" width="500" height="20"/>
+<img src="src/multimodal/AVE/22olCB3wQaA_ori.png" alt="22olCB3wQaA_0" width="500" height="18"/>
 
-#### Ours:
+##### Ours:
 
-<img src="src/multimodal/AVE/22olCB3wQaA_ours.png" alt="22olCB3wQaA_1" width="500" height="40"/>
+<img src="src/multimodal/AVE/22olCB3wQaA_ours.png" alt="22olCB3wQaA_1" width="500" height="36"/>
 
 
 
