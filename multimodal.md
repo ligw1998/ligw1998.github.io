@@ -6,9 +6,9 @@
 > Our model predicts the onset(s) and offset(s) of each event. Here yellow represents audio, blue indicates video and green (blue+yellow) means audio-visual, same as the paper.
 > The cutline is as follows:
 
-<img src="src/multimodal/cutline.png" align="middle" alt="cutline" width="352" height="62"/>
+<img src="src/multimodal/cutline.png"  alt="cutline" width="352" height="62" style="margin 0 auto;"/>
 
-
+***
 
 ### Parsing result from VEBA test set: 
 > These are videos chosen from our VEBA dataset (test set), the parsing result from our model is presented below each video.
@@ -57,8 +57,7 @@
 
 <img src="src/multimodal/VEBA/Am5GHLnpl44_ours.png" alt="Am5GHLnpl44_1" width="500" height="67"/>
 
-
-
+***
 
 ### A Revise on original labels from AVE dataset: 
 > These are videos chosen from the AVE dataset, where the annotated events are all audio-visual. 
