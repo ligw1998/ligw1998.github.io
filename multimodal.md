@@ -6,7 +6,7 @@
 > Our model predicts the onset(s) and offset(s) of each event. Here yellow represents audio, blue indicates video and green (blue+yellow) means audio-visual, same as the paper.
 > The cutline is as follows:
 
-<img src="src/multimodal/cutline.png"  alt="cutline" width="352" height="62" style="margin 0 auto;"/>
+<img src="src/multimodal/cutline.png"  alt="cutline" width="352" height="62" style="margin: 0 auto;"/>
 
 ***
 
