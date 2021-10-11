@@ -1,4 +1,4 @@
-## Welcome to Category Adapted Enhancement with Weakly Labelled Data
+## Welcome to Category Adapted Enhancement with Weakly Labeled Data
 
 **DEMOs are here!**
 
